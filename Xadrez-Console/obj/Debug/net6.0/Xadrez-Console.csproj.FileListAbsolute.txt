@@ -1,0 +1,15 @@
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\bin\Debug\net6.0\Xadrez-Console.exe
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\bin\Debug\net6.0\Xadrez-Console.deps.json
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\bin\Debug\net6.0\Xadrez-Console.runtimeconfig.json
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\bin\Debug\net6.0\Xadrez-Console.dll
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\bin\Debug\net6.0\Xadrez-Console.pdb
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\Xadrez-Console.csproj.AssemblyReference.cache
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\Xadrez-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\Xadrez-Console.AssemblyInfoInputs.cache
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\Xadrez-Console.AssemblyInfo.cs
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\Xadrez-Console.csproj.CoreCompileInputs.cache
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\Xadrez-Console.dll
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\refint\Xadrez-Console.dll
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\Xadrez-Console.pdb
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\Xadrez-Console.genruntimeconfig.cache
+C:\Users\ivo13\Desktop\C# 2.0\Xadrez-Console\Xadrez-Console\Xadrez-Console\obj\Debug\net6.0\ref\Xadrez-Console.dll
