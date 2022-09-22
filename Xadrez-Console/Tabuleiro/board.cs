@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Data;
 using System.Security.Cryptography.X509Certificates;
+using Xadrez_Console.Xadrez;
 
 namespace Tabuleiro
 {
@@ -42,6 +43,18 @@ namespace Tabuleiro
             p.posicao = pos;
         }
 
+        public Peca retirarPeca(Posicao pos)
+        {
+            if (peca(pos) == null)
+            {
+                return null;
+            }
+            Peca aux = peca(pos);
+            aux.posicao = null;
+            pecas[pos.Linha, pos.Coluna] = null;
+            return aux;
+        }
+
         public bool posicaoValida(Posicao pos)
         {
             if (pos.Linha < 0 || pos.Linha >= linhas || pos.Coluna < 0 || pos.Coluna >= colunas)
@@ -60,5 +73,9 @@ namespace Tabuleiro
             }
         }
 
+        internal void colocarPeca(Torre torre, string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
